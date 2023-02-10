@@ -1,0 +1,512 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.43f1 (75bff06b76bf) revision 7716848'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'en' Physical Memory: 16052 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.43f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/david/VGD Project/VGD_4455/VGD 4455
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59894
+Successfully changed project path to: C:/Users/david/VGD Project/VGD_4455/VGD 4455
+C:/Users/david/VGD Project/VGD_4455/VGD 4455
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.43f1 (75bff06b76bf)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.43f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/david/VGD Project/VGD_4455/VGD 4455/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   
+    VRAM:     3976 MB
+    Driver:   31.0.15.2656
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.43f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.43f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.43f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56748
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.43f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.43f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004575 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 20.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.390 seconds
+Domain Reload Profiling:
+	ReloadAssembly (390ms)
+		BeginReloadAssembly (83ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (261ms)
+			LoadAssemblies (83ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (85ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (17ms)
+			SetupLoadedEditorAssemblies (96ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (20ms)
+				BeforeProcessingInitializeOnLoad (5ms)
+				ProcessInitializeOnLoadAttributes (47ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001534 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.592 seconds
+Domain Reload Profiling:
+	ReloadAssembly (593ms)
+		BeginReloadAssembly (83ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (475ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (148ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (190ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (40ms)
+				ProcessInitializeOnLoadAttributes (133ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (1ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.1 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1925.
+Total: 1.923900 ms (FindLiveObjects: 0.079000 ms CreateObjectMapping: 0.028500 ms MarkObjects: 1.753000 ms  DeleteObjects: 0.062400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9168112a17b07f3ee034ca0d2dc1544d') in 0.006664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c55409359c0051422e58de30b0573d') in 0.003948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.321328 seconds.
+  path: Assets/NatureManufacture Assets
+  artifactKey: Guid(4cd07102350900f47818008b5d7555ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets using Guid(4cd07102350900f47818008b5d7555ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a6b8864c5724d93a2b3b7c3eec6fea') in 0.005251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.673685 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains
+  artifactKey: Guid(961d9f2759a57e14dbf17aa401b252c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains using Guid(961d9f2759a57e14dbf17aa401b252c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd40edc41a3b168049ce05a32fbfa5315') in 0.005824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.613090 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps
+  artifactKey: Guid(b8cb61d7ab40da34cb36f52cedb11cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps using Guid(b8cb61d7ab40da34cb36f52cedb11cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4146c3ca466c1399be28f1fdf4f1e324') in 0.005023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.097067 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Crater_1.jpg
+  artifactKey: Guid(e4921ac9885d1f246a9eab6940905234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Crater_1.jpg using Guid(e4921ac9885d1f246a9eab6940905234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e4e5febbf51aacae7e364bace697e7') in 0.095816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_1.jpg
+  artifactKey: Guid(acc7cad2d6fda6d4aa21fc197886b008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_1.jpg using Guid(acc7cad2d6fda6d4aa21fc197886b008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e7c1842166fe6bc65af2ce385c56e9') in 0.013678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_7.jpg
+  artifactKey: Guid(de6be41a6be5f1549a62164db28cd43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_7.jpg using Guid(de6be41a6be5f1549a62164db28cd43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '349b89a8453a768f1bb84d18d0e7ba8b') in 0.010334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_1.jpg
+  artifactKey: Guid(9144b96c641ae68479a10a1d1c3ca43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_1.jpg using Guid(9144b96c641ae68479a10a1d1c3ca43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442dc76f59bb64bcfddec2577834599c') in 0.010852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_8.jpg
+  artifactKey: Guid(6ced69d8a5ff5fc4c85fe68c0d819767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_8.jpg using Guid(6ced69d8a5ff5fc4c85fe68c0d819767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fed0437c0bac3eccfc3d0d5eaa894a0') in 0.014032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Valey_1.jpg
+  artifactKey: Guid(e58178e82b168014ba18ee7ae9e1c386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Valey_1.jpg using Guid(e58178e82b168014ba18ee7ae9e1c386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9753d918759a12761b1871126e3a5e') in 0.012538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_3.jpg
+  artifactKey: Guid(0ff0c87c78d19a44bb0b77a395d35677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_3.jpg using Guid(0ff0c87c78d19a44bb0b77a395d35677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313b1d9128f1487880611df2e45f931f') in 0.012322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_2.jpg
+  artifactKey: Guid(efa2eefa6c172294386ed9e0f0c4c6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_2.jpg using Guid(efa2eefa6c172294386ed9e0f0c4c6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef22a30cbea10a768d21aa3435b1e6c') in 0.016035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_6.jpg
+  artifactKey: Guid(77d4e08f255462b4fbbece92afa03a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_6.jpg using Guid(77d4e08f255462b4fbbece92afa03a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c652d3c68ce1b0eb743c668625d767da') in 0.013434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Valey_2.jpg
+  artifactKey: Guid(0b85f9249200f944592223c39c4a8136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Valey_2.jpg using Guid(0b85f9249200f944592223c39c4a8136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bdf5c86193d116cd60cb93fdc29b46a') in 0.013767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_3.jpg
+  artifactKey: Guid(c139820990a0d284687e98ba0a61ed64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_3.jpg using Guid(c139820990a0d284687e98ba0a61ed64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc9b2f8b3dbac8228f543cfc5d072a1') in 0.010824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_2.jpg
+  artifactKey: Guid(7e980cc87c7e43548be15a5f6f19af65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_2.jpg using Guid(7e980cc87c7e43548be15a5f6f19af65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ed38b2d42d369f5b2d19faf2868b60') in 0.010165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Valey_4.jpg
+  artifactKey: Guid(5381fe739e075b54f829ca6b08bfb77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Valey_4.jpg using Guid(5381fe739e075b54f829ca6b08bfb77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '167f0392d8b382eabf3190753a55ae73') in 0.012131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_8.jpg
+  artifactKey: Guid(e6aee031cf0394d4491fd7cdb0596f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_8.jpg using Guid(e6aee031cf0394d4491fd7cdb0596f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c9fe7bc972d2274809510ebbeca848') in 0.010815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_6.jpg
+  artifactKey: Guid(b1ae5af76bcd3614faf2bb85701ad39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_6.jpg using Guid(b1ae5af76bcd3614faf2bb85701ad39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e84057b6b9afd8cd8f9e5b181468ef41') in 0.014011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_9.jpg
+  artifactKey: Guid(208f94ed97b9c5140ad04b75eaa63fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_9.jpg using Guid(208f94ed97b9c5140ad04b75eaa63fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7f272a5d47e89907f3df1fbf1961505') in 0.010228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_4.jpg
+  artifactKey: Guid(8d7910be6a2ed454cb06844249e667dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_4.jpg using Guid(8d7910be6a2ed454cb06844249e667dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b04519be81d8914fa1cf0962b58f5e') in 0.011967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Valey_3.jpg
+  artifactKey: Guid(b92bc381281fe2d4585ea0f31ac8edb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Valey_3.jpg using Guid(b92bc381281fe2d4585ea0f31ac8edb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfcd2b08079ad85f474bddd226ef7b9') in 0.013366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_5.jpg
+  artifactKey: Guid(ea007aebb052c28418432f4c921ed49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Hill_5.jpg using Guid(ea007aebb052c28418432f4c921ed49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32217490e3c44aebba8acf680bc2052') in 0.010167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_5.jpg
+  artifactKey: Guid(7ac74ed69b48c264a87554c5932c994c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_5.jpg using Guid(7ac74ed69b48c264a87554c5932c994c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '995b3237ad37ae25216c93b600b9e067') in 0.012255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_7.jpg
+  artifactKey: Guid(f858d968a26beb8489936f0082b11682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Gaia Stamps/NM_Gaia_Mountain_7.jpg using Guid(f858d968a26beb8489936f0082b11682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210bcc541077f48b10376bd643a427d1') in 0.013633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.670130 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Models
+  artifactKey: Guid(da676c06a2eb5304e9d4ea994325c624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Models using Guid(da676c06a2eb5304e9d4ea994325c624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ee64b30c77ba6da38ee2cfca71bbf7') in 0.004760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.350376 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models
+  artifactKey: Guid(5a0683f3809fac644b640e4ce1eb7847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models using Guid(5a0683f3809fac644b640e4ce1eb7847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2ecc2836ddbbb33ce814c05503da135') in 0.001858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.100949 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_2.fbx
+  artifactKey: Guid(a8d4be9eb954bc34ca0962624296d3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_2.fbx using Guid(a8d4be9eb954bc34ca0962624296d3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431c911333526dd6c4d41b6cfc4bf477') in 0.295496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_27.fbx
+  artifactKey: Guid(c2e15a8a2b5e5a449b568917dcc37509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_27.fbx using Guid(c2e15a8a2b5e5a449b568917dcc37509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4eb5a2f84fc760ab9024270291995f6') in 0.053385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_23.fbx
+  artifactKey: Guid(dcdf21d397cae984ebcbd10e25258dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_23.fbx using Guid(dcdf21d397cae984ebcbd10e25258dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f9993fbfa7a9c7b598155da9650d87e') in 0.054410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_22.fbx
+  artifactKey: Guid(c0bf99bf009632d4d9d1a57f7cb1fd77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_22.fbx using Guid(c0bf99bf009632d4d9d1a57f7cb1fd77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5613244c15ceb8ade31815409c3343a2') in 0.054740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_47.fbx
+  artifactKey: Guid(c1db156aa1dec1b448f610730bffa163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_47.fbx using Guid(c1db156aa1dec1b448f610730bffa163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b83a4dc947658652fe8537ead72b383a') in 0.037308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_20.fbx
+  artifactKey: Guid(3b5afa78b1c8a054f8eba04f2e269d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Models/Models/Mountain_20.fbx using Guid(3b5afa78b1c8a054f8eba04f2e269d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd457287bc377fd9dc89d30a1c4089190') in 0.043796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.452130 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs
+  artifactKey: Guid(15f769c8551499543a3e4d4add0d0141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs using Guid(15f769c8551499543a3e4d4add0d0141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56a05b94d69cfbb3ec043ab4bbe7057') in 0.005862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.125036 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_2.prefab
+  artifactKey: Guid(01dd7a58c63283449b8d845a452090e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_2.prefab using Guid(01dd7a58c63283449b8d845a452090e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0450a47d54a1d15e8b6a3374cdbe4735') in 0.026098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_47.prefab
+  artifactKey: Guid(1d91278d40f69bf428e9546cbdbdcbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_47.prefab using Guid(1d91278d40f69bf428e9546cbdbdcbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb21bb9f98e9cb0a849f712972cc5f3') in 0.025139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_22.prefab
+  artifactKey: Guid(51124bb250d8f2d4eb16bc165c55409e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_22.prefab using Guid(51124bb250d8f2d4eb16bc165c55409e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170e6bfde076279d3e555b47977bb38f') in 0.029017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_27.prefab
+  artifactKey: Guid(55e306fb876f33d4695c7992639230f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_27.prefab using Guid(55e306fb876f33d4695c7992639230f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5feb97d06db5f76d9887701b318615f5') in 0.027775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_20.prefab
+  artifactKey: Guid(51c8e05702e94c3479bac5a4b1083071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_20.prefab using Guid(51c8e05702e94c3479bac5a4b1083071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84878a51dd40ab087a6ad8608fae8a7') in 0.027241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_23.prefab
+  artifactKey: Guid(90f6cb45efc979145bfe6b410430f5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Prefabs/Prefab_Mountain_23.prefab using Guid(90f6cb45efc979145bfe6b410430f5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1da2bff89a7ca2c1cfae5a0862326e') in 0.026706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.352140 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Winter Background Mountains HD SRP.unitypackage
+  artifactKey: Guid(aae1ec5a142870541904dd26f160a499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Winter Background Mountains HD SRP.unitypackage using Guid(aae1ec5a142870541904dd26f160a499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278c2de1f69d922f407f7ca72f2178c4') in 0.009410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.676043 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Winter Background Mountains LW SRP.unitypackage
+  artifactKey: Guid(4cd448de54f25c04595d5553d0acd01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Winter Background Mountains LW SRP.unitypackage using Guid(4cd448de54f25c04595d5553d0acd01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b69149cde33fda33fd060b9488cf8c93') in 0.006073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.295394 seconds.
+  path: Assets/NatureManufacture Assets/Winter Background Mountains/Winter Mountains  Overview.unity
+  artifactKey: Guid(73ae37ecf4bf14442b507bcb2e5da671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureManufacture Assets/Winter Background Mountains/Winter Mountains  Overview.unity using Guid(73ae37ecf4bf14442b507bcb2e5da671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c307e84963b4ce2abb3279dbc436080') in 0.004865 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001297 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.574 seconds
+Domain Reload Profiling:
+	ReloadAssembly (574ms)
+		BeginReloadAssembly (74ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (461ms)
+			LoadAssemblies (57ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (154ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (182ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (29ms)
+				ProcessInitializeOnLoadAttributes (137ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (1ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1484 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.1 MB.
+System memory in use after: 73.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1942.
+Total: 1.765700 ms (FindLiveObjects: 0.096200 ms CreateObjectMapping: 0.024400 ms MarkObjects: 1.606100 ms  DeleteObjects: 0.038300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001233 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.480 seconds
+Domain Reload Profiling:
+	ReloadAssembly (480ms)
+		BeginReloadAssembly (73ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (369ms)
+			LoadAssemblies (56ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (136ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (18ms)
+			SetupLoadedEditorAssemblies (116ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (33ms)
+				ProcessInitializeOnLoadAttributes (69ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (1ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1828 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 1.629000 ms (FindLiveObjects: 0.093600 ms CreateObjectMapping: 0.028200 ms MarkObjects: 1.459200 ms  DeleteObjects: 0.047100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
